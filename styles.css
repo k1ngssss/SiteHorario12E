@@ -1,0 +1,69 @@
+h1 {text-align: center;
+    color: black;
+    font-size: 40px;
+    font-weight: bold;
+
+}
+
+img {width: 300px;
+    height: 100px;
+    margin-left: 0px;
+    margin-top: -80px;
+    position: absolute;
+
+}
+
+table{border-collapse: collapse;
+      width: 80%;
+      margin-top: 50px;
+      border: 2px solid black;
+      font-size: 18px;
+      margin-left: 18%;
+
+}
+
+th, td {border-collapse: collapse;
+    border: 2px solid black;
+    padding: 10px;
+    font-weight: lighter;
+
+}
+
+.ainf {float: right;
+    font-weight: lighter;
+
+}
+
+.fis {float: right;
+    font-weight: lighter;
+}
+
+.lab {float: right;
+    font-weight: lighter;
+}
+
+.colorFIS {background-color: darkcyan;
+
+}
+
+.mata {float: right;
+    font-weight: lighter;
+}
+
+.ef {float: right;
+    font-weight: lighter;
+}
+
+.port {float: right;
+    font-weight: lighter;
+}
+
+.fis2 {float: right;
+    font-weight: lighter;
+}
+
+ul {font-size: 22px;
+    list-style: none;
+    margin-top: 200px;
+
+}
